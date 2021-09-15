@@ -1,0 +1,13 @@
+{
+  "token": "ODU4NzgzNzgzMTc1ODQ3OTY2.YNjKuQ.1z9CJ0llgGALtWx6R73Jc5ryZU0",
+  "prefix": "-",
+
+  "nodes": [
+    {
+      "id": "1",
+      "host": "localhost",
+      "port": "2333",
+      "password": "arretado"
+    }
+  ]
+}
